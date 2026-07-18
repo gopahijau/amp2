@@ -1,0 +1,504 @@
+
+<!DOCTYPE html>
+<html amp lang="en-ID">
+  <head>
+<meta charset="utf-8" />
+<meta name="viewport"
+content="width=device-width,minimum-scale=1,initial-scale=1">
+<title> WAWASAN4D adalah platform digital yang berfokus pada memberikan layanan eksklusif untuk setiap anggota.</title>
+<meta name="WAWASAN4D adalah platform digital yang berfokus pada memberikan layanan eksklusif untuk setiap anggota." />
+<meta name="robots" content="index, follow" />
+<meta name="theme-color" content="#811212" />
+
+<link rel="canonical" href="https://wawasancuan.info/" />
+<meta name="robots" content="index, follow, nosnippet">
+<link rel="icon" type="image/x-icon" media="(prefers-color-scheme: dark)"
+ href="https://i.postimg.cc/Bvx5WP91/image.png" />
+
+<meta property="og:url" content="https://wawasancuan.info/" />
+<meta property="og:site_name" content="WAWASAN4D" />
+<meta property="og:image:alt" content="WAWASAN4D" />
+<meta property="og:image"
+ content="https://i.postimg.cc/XY9BXM2z/58ec725c4433fe94f59a38c123255308.jpg" />
+<meta property="og:title"
+ content="WAWASAN4D ^*^ adalah platform digital yang berfokus pada memberikan layanan eksklusif untuk setiap anggota." />
+
+<meta property="og:WAWASAN4D adalah platform digital yang berfokus pada memberikan layanan eksklusif untuk setiap anggota." />
+
+<meta property="og:locale" content="ID_id" />
+<meta property="og:type" content="website" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title"
+ content="WAWASAN4D ^*^ adalah platform digital yang berfokus pada memberikan layanan eksklusif untuk setiap anggota." />
+
+<meta name="twitter:WAWASAN4D ^*^ adalah platform digital yang berfokus pada memberikan layanan eksklusif untuk setiap anggota." />
+
+<meta name="twitter:image:src"
+ content="https://i.postimg.cc/XY9BXM2z/58ec725c4433fe94f59a38c123255308.jpg" />
+
+<link rel="shortcut icon" type="image/x-png"
+ href="https://i.postimg.cc/Bvx5WP91/image.png" />
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Game",
+ "name": "WAWASAN4D",
+ "url": "https://wawasancuan.info/",
+ "image": "https://i.postimg.cc/XY9BXM2z/58ec725c4433fe94f59a38c123255308.jpg",
+ "description": "WAWASAN4D menghadirkan akses mudah ke situs slot gacor dengan sistem pembayaran QRIS super cepat. Cukup scan, bayar, saldo langsung masuk tanpa hambatan. Nikmati pengalaman bermain yang praktis, aman, dan menyenangkan. Dengan RTP tinggi dan antarmuka ramah, setiap putaran terasa lebih seru dan menguntungkan bagi semua pemain.",
+ "author": {
+  "@type": "Organization",
+  "name": "WAWASAN4D"
+ },
+ "publisher": {
+  "@type": "Organization",
+  "name": "WAWASAN4D",
+  "logo": {
+   "@type": "ImageObject",
+   "url": "https://i.postimg.cc/Bvx5WP91/image.png"
+  }
+ },
+ "genre": "Game Online",
+ "operatingSystem": "All",
+ "applicationCategory": "Game",
+ "aggregateRating": {
+  "@type": "AggregateRating",
+  "ratingValue": "4.6",
+  "ratingCount": "215"
+ }
+}
+</script>
+
+<link rel="preload" as="style"
+ href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" />
+
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap"
+ rel="stylesheet" />
+
+<link rel="preload" as="script"
+ href="https://cdn.ampproject.org/v0.js" />
+
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+
+<style amp-boilerplate>
+body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}
+@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+</style>
+
+<noscript>
+<style amp-boilerplate>
+body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
+</style>
+</noscript>
+
+<style amp-custom>
+
+/* Reset & Global */
+* {
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
+
+/* BACKGROUND MALAM + BINTANG JATUH GOLDEN */
+body {
+ font-family: Orbitron, sans-serif;
+ background:
+ radial-gradient(circle at top, rgb(0, 0, 0), transparent 32%),
+ radial-gradient(circle at 20% 20%, rgba(0, 0, 0), transparent 28%),
+ linear-gradient(180deg, #000000 0%, #000000 45%, #000000 100%);
+ background-size: cover;
+ color: #9700fc;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ min-height: 100vh;
+ overflow: hidden;
+ padding: 20px;
+ flex-direction: column;
+ position: relative;
+}
+
+/* layer bintang */
+body::before,
+body::after{
+ content:"";
+ position:fixed;
+ top:-100%;
+ left:0;
+ width:100%;
+ height:200%;
+ pointer-events:none;
+ z-index:0;
+}
+
+/* bintang kecil golden */
+body::before{
+ background-image:
+ radial-gradient(circle, #9700fc 1px, transparent 2px),
+ radial-gradient(circle, #9700fc 1px, transparent 2px),
+ radial-gradient(circle, #9700fc 1px, transparent 2px);
+
+ background-size:
+ 120px 120px,
+ 180px 180px,
+ 90px 90px;
+
+ animation: starsFall 18s linear infinite;
+ opacity:.85;
+}
+
+/* shooting star golden */
+body::after{
+ background-image:
+ radial-gradient(circle, rgb(178 0 255) 1px, transparent 2px),
+ radial-gradient(circle, rgb(178 0 255) 1px, transparent 2px);
+
+ background-size:
+ 250px 250px,
+ 350px 350px;
+
+ animation: starsFast 10s linear infinite;
+ opacity:.75;
+}
+
+@keyframes starsFall{
+ from{
+  transform:translateY(-20%);
+ }
+ to{
+  transform:translateY(20%);
+ }
+}
+
+@keyframes starsFast{
+ from{
+  transform:translateY(-30%);
+ }
+ to{
+  transform:translateY(35%);
+ }
+}
+
+/* konten di atas background */
+.container,
+.static-logo,
+.footer{
+ position:relative;
+ z-index:2;
+}
+
+.container {
+ width: 100%;
+ max-width: 1024px;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ position: relative;
+ perspective: 1000px;
+ transform-style: preserve-3d;
+}
+
+/* 3D Cube */
+.cube {
+ position: relative;
+ width: 300px;
+ height: 300px;
+ transform-style: preserve-3d;
+ transform: rotateX(30deg) rotateY(30deg);
+ animation: spin 20s infinite linear;
+ margin-top: 20px;
+}
+
+.cube div {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ background: linear-gradient(145deg, #000000, #000000);
+ border: 2px solid rgb(178 0 255);
+ box-shadow:
+  0 0 18px rgb(178 0 255),
+  inset 0 0 18px rgb(178 0 255);
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ font-size: 20px;
+ opacity: 0.95;
+}
+
+.cube .front {
+ transform: translateZ(150px);
+}
+
+.cube .back {
+ transform: rotateY(180deg) translateZ(150px);
+}
+
+.cube .left {
+ transform: rotateY(-90deg) translateZ(150px);
+}
+
+.cube .right {
+ transform: rotateY(90deg) translateZ(150px);
+}
+
+.cube .top {
+ transform: rotateX(90deg) translateZ(150px);
+}
+
+.cube .bottom {
+ transform: rotateX(-90deg) translateZ(150px);
+}
+
+.cube amp-img {
+ width: 100%;
+ height: 100%;
+ object-fit: cover;
+}
+
+/* Static Logo */
+.static-logo {
+ width: 100px;
+ height: 100px;
+ margin-bottom: -50px;
+}
+
+/* Cube Animation */
+@keyframes spin {
+ from {
+  transform: rotateX(30deg) rotateY(30deg);
+ }
+
+ to {
+  transform: rotateX(30deg) rotateY(390deg);
+ }
+}
+
+/* Call to Action */
+.cta {
+ margin-top: 40px;
+ font-size: 18px;
+ color: #ffffff;
+ text-align: center;
+ animation: text-pulse 2s infinite;
+ text-shadow: 0 0 10px rgb(178 0 255);
+}
+
+@keyframes text-pulse {
+
+ 0%,
+ 100% {
+  opacity: 1;
+ }
+
+ 50% {
+  opacity: 0.55;
+ }
+}
+
+.cta a {
+  display: inline-block;
+  padding: 12px 24px;
+  margin: 10px 5px;
+  
+  /* Background Hitam Golden Glossy */
+  background: linear-gradient(180deg, #00000000 0%, #00000000 50%, #00000000 100%);
+  
+  /* Teks Golden Luxury */
+  color: #9700fc;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 5px;
+  
+  /* Border golden mewah */
+  border: 1px solid #9700fc;
+  
+  box-shadow:
+   0 0 12px rgb(178 0 255),
+   inset 0 0 10px rgb(178 0 255);
+  
+  transition: all 0.3s ease;
+}
+
+/* Efek saat tombol disentuh/diarahkan kursor */
+.cta a:hover {
+  background: linear-gradient(180deg, #00000000 0%, #00000000 55%, #00000000 100%);
+  box-shadow:
+   0 0 18px rgb(178 0 255),
+   0 0 35px rgb(178 0 255);
+  color: #9700fc;
+}
+
+
+/* Heading & Footer */
+h1 {
+   margin-top: 20px;
+   font-size: medium;
+   color: #9700fc; 
+   text-shadow:
+    0 0 8px rgb(178 0 255),
+    0 0 18px rgb(178 0 255);
+}
+
+.footer {
+ font-size: small;
+ text-align: center;
+ color: #9700fc;
+ text-shadow: 0 0 8px rgb(178 0 255);
+}
+
+.punyaWAWASAN4D {
+  color: #9700fc;
+  text-shadow: 0 0 10px rgb(178 0 255);
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+ .cube {
+  width: 200px;
+  height: 200px;
+ }
+
+ .static-logo {
+  width: 240px;
+  height: 60px;
+  margin-bottom: 100px;
+ }
+
+ .cta {
+  font-size: 16px;
+  margin-top: 80px;
+ }
+}
+</style>
+</head>
+
+<body>
+
+<amp-img class="static-logo"
+ src="https://i.postimg.cc/Bvx5WP91/image.png"
+ width="300"
+ height="100"
+ layout="intrinsic"
+ alt="WAWASAN4D"></amp-img>
+
+<div class="container">
+
+ <div class="cube">
+
+  <div class="front">
+   <amp-img src="https://i.postimg.cc/XY9BXM2z/58ec725c4433fe94f59a38c123255308.jpg"
+    width="500"
+    height="500"
+    layout="responsive"
+    alt="WAWASAN4D"></amp-img>
+  </div>
+
+  <div class="back">
+   <amp-img src="https://i.postimg.cc/XY9BXM2z/58ec725c4433fe94f59a38c123255308.jpg"
+    width="500"
+    height="500"
+    layout="responsive"
+    alt="WAWASAN4D"></amp-img>
+  </div>
+
+  <div class="left">
+   <amp-img src="https://i.postimg.cc/XY9BXM2z/58ec725c4433fe94f59a38c123255308.jpg"
+    width="500"
+    height="500"
+    layout="responsive"
+    alt="WAWASAN4D"></amp-img>
+  </div>
+
+  <div class="right">
+   <amp-img src="https://i.postimg.cc/XY9BXM2z/58ec725c4433fe94f59a38c123255308.jpg"
+    width="500"
+    height="500"
+    layout="responsive"
+    alt="WAWASAN4D"></amp-img>
+  </div>
+  
+   <div class="top">
+   <amp-img src="https://i.postimg.cc/XY9BXM2z/58ec725c4433fe94f59a38c123255308.jpg"
+    width="500"
+    height="500"
+    layout="responsive"
+    alt="WAWASAN4D"></amp-img>
+  </div>
+
+  <div class="bottom">
+   <amp-img src="https://i.postimg.cc/XY9BXM2z/58ec725c4433fe94f59a38c123255308.jpg"
+    width="500"
+    height="500"
+    layout="responsive"
+    alt="WAWASAN4D"></amp-img>
+  </div>
+
+ </div>
+
+ <div class="cta">
+  <h1 class="h1">
+   WAWASAN4D ^*^ Mainkan slot online favorit dengan pengalaman bermain lebih nyaman, proses cepat, dan peluang kemenangan besar setiap hari
+  </h1>
+
+  <a href="https://shorthe.link/wawasan4dvip"
+   target="_blank"
+   rel="nofollow noreferrer noopener">LOGIN</a>
+
+  <a href="https://shorthe.link/wawasan4dvip"
+   target="_blank"
+   rel="nofollow noreferrer noopener">DAFTAR</a>
+
+  <a href="https://shorthe.link/whatsapp"
+   target="_blank"
+   rel="nofollow noreferrer noopener">WHATSAPP</a>
+ </div>
+
+ <br>
+
+<p style="text-align: justify; color:#9700fc;">
+  <a href="https://shorthe.link/wawasan4dvip" 
+     style="
+       color:#9700fc;
+       font-weight:bold;
+       text-decoration:none;
+       text-shadow:
+         0 0 5px rgba(0, 0, 0, 0.8),
+         0 0 10px rgba(0, 0, 0, 0.6),
+         0 0 15px rgba(0, 0, 0, 0.4);
+     ">
+     Perjuangan Tidak Ada Yang Sia-Sia Tetaplah Bersemangat Dan Capai Cita-Cita Mu Kawan ( SEO MEDANKIA ) 
+  </a>
+</p>
+
+</div>
+
+<footer class="footer">
+ <br /><p style="margin: 0; padding-bottom: 5px; color: #9700fc;">
+  COPYRIGHT - 
+  <a class="WAWASAN4D" 
+     href="https://wawasancuan.info/" 
+     title="WAWASAN4D" 
+     style="color: #9700fc; text-decoration: none;">WAWASAN4D</a> 
+  x SEO NGAPAK
+</p>
+
+ <a href="https://shorthe.link/wawasan4dvip">
+  <amp-img
+ src="https://i.postimg.cc/Bvx5WP91/image.png"
+ width="120"
+ height="40"
+ layout="intrinsic"
+ alt="WAWASAN4D">
+</amp-img>
+ </a>
+</footer>
+
+</body>
+</html>
